@@ -6,7 +6,7 @@ This file is part of Airmac.
 
 This version of Airmac is a continuation of Airmac version 0.4
 developed by Arend Jan Kramer, which was available at the time of
-writing from <http://code.google.com/p/airmac/>.
+writing from <https://github.com/jrtc27/Airmac>.
 
 Airmac is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
